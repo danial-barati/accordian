@@ -4,7 +4,7 @@
 
 ![view](https://github.com/danial-barati/accordian/assets/104683176/f99dba89-7592-4600-8448-85032000393b)
 
-- 🔗 [demo](https://danial-barati.github.io/todolist/)
+- 🔗 [demo]( https://danial-barati.github.io/accordian/)
 
 - 👩🏻‍💻 Developed by danial barati
 
