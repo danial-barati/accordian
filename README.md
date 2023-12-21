@@ -2,13 +2,13 @@
 
 ** an accordian by js **
 
-![view](https://github.com/danial-barati/todolist/assets/104683176/82f9095b-e7e1-45a4-bce6-f55b9fa9b084)
+![view](https://github.com/danial-barati/accordian/assets/104683176/f99dba89-7592-4600-8448-85032000393b)
 
 - 🔗 [demo](https://danial-barati.github.io/todolist/)
 
 - 👩🏻‍💻 Developed by danial barati
 
-- 📆 Created - 2023-11-19
+- 📆 Created - 2023-12-2
 
 - ✔️ Technologies Used - Html , css , scss
 
